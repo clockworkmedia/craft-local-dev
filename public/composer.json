@@ -1,0 +1,11 @@
+{
+	"name": "craft-local-dev",
+	"description": "This is the official craft local dev setup",
+	"require": {
+		"vlucas/phpdotenv": "^2.4"
+	},
+	"authors": [{
+		"name": "Elvis",
+		"email": "elvis@clockworkmedia.co.za"
+	}]
+}
